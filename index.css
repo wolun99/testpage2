@@ -8,6 +8,7 @@
 
 body{
   position: relative;
+  background: #212641;
 }
 
 .header{
@@ -32,9 +33,12 @@ justify-content: center;
 align-items: center;
 padding: 0px;
 gap: 90px;
-
 width: 543px;
 height: 19px;
+}
+
+.header li{
+  color:#fff;
 }
 
 .main_left{
@@ -50,8 +54,7 @@ width: 1212px;
 height: 635px;
 left: 180px;
 top: 144px;
-
-background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(2.jpg);
+background: #fff;
 border-radius: 30px;
 }
 
@@ -61,7 +64,8 @@ width: 521px;
 height: 203px;
 left: 180px;
 top: 821px;
-background: #FAE300;
+background: #FFFFFF;
+opacity: 0.2;
 border-radius: 30px;
 }
 
@@ -104,6 +108,10 @@ border-radius: 22px;
   border-bottom:1px solid #eee;
 }
 
+.call *{
+  color:#fff;
+}
+
 .call p{
 width: 252px;
 height: 128px;
@@ -119,6 +127,10 @@ line-height: 32px;
   width:252px;
   left: 1488px;
   top: 829px;
+}
+
+.service *{
+  color:#fff;
 }
 
 .banner_img{
