@@ -105,15 +105,46 @@ border-radius: 30px;
 overflow: hidden;
 }
 
+.box_icon{
+  width:57px;
+  height:73px;
+  display:block;
+  float:right;
+}
+
+.box_title{
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 100%;
+  color: #F68D73;
+  display:block;
+  margin-bottom:18px;
+  float:left;
+  width:125px;
+}
+
+.box_content{
+  font-weight: 300;
+  font-size: 30px;
+  line-height: 38px;
+  float:left;
+}
+
+.box_icon.sofa_icon{
+  width:82px;
+  height:73px;
+}
+
 .box{
   position: absolute;
 width: 324px;
 height: 203px;
 left: 723px;
 top: 821px;
-
 background: #EEEEEE;
 border-radius: 30px;
+padding:42px 46px;
+overflow:hidden;
 }
 
 .box2{
@@ -247,6 +278,37 @@ top: 1080px;
     height: 57px;
     float:right;
   }
+
+  .box_icon{
+    width:30px;
+    height:38px;
+    display:block;
+    float:right;
+  }
+  
+  .box_title{
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 100%;
+    color: #F68D73;
+    display:block;
+    margin-bottom:10px;
+    float:none;
+    width:auto;
+  }
+  
+  .box_content{
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 20px;
+    float:left;
+  }
+  
+  .box_icon.sofa_icon{
+    width:44px;
+    height:38px;
+  }
+
   .box_wrap{
     height:103px;
     overflow:hidden;
@@ -263,6 +325,7 @@ top: 1080px;
     flex: none;
     order: 0;
     flex-grow: 0;
+    padding:20px;
   }
   .call_m{
     margin-top:80px;
