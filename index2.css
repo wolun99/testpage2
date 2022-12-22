@@ -139,6 +139,10 @@ overflow: hidden;
   float:right;
 }
 
+.box2 .box_title{
+  width:7.5104vw
+}
+
 .box_title{
   font-style: normal;
   font-weight: 700;
@@ -420,5 +424,53 @@ top: 115.2615vh;
     flex: none;
     order: 2;
     flex-grow: 0;
+  }
+}
+
+@media all and (max-width:1800px) and (min-width:1200px){
+  .header ul li{
+    font-size:14px;
+  }
+  .kakao_text{
+    font-size: 28px;
+  }
+  .box_title{
+    font-size: 16px;
+  }
+  .box_content{
+    font-size: 24px;
+  }
+  .left_box_title{
+    font-size: 19px;
+  }
+
+  .left_box_icon,
+  .left_box2_icon{
+    width:40px;
+    height:auto;
+  }
+  .left_box2_title{
+    font-size: 19px;
+  }
+  .call span, 
+  .service span{
+    font-size: 18px;
+  }
+  .call p, 
+  .service p{
+    font-size: 10px;
+  } 
+  .kakao_icon{
+    width:78px;
+    height:auto;
+    margin-right:27px;
+  }
+  .box_icon{
+    width:46px;
+    height:auto;
+  }
+  .box_icon.sofa_icon{
+    width: 62px;
+    height: auto;
   }
 }
