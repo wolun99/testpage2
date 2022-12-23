@@ -92,10 +92,10 @@ line-height:8.9648vh;
 
 .imgwrap{
   position: absolute;
-  width: 63.1250vw;
-  height: 67.7695vh;
-  left: 9.3750vw;
-  top: 15.3682vh;
+  width: 63.125vw;
+  height: 65.7695vh;
+  left: 9.375vw;
+  top: 12.3682vh;
   background: linear-gradient(0deg, rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./img/2.png) no-repeat;
   background-size: 100% 100%;
   border-radius: 30px;
@@ -123,13 +123,13 @@ line-height:8.9648vh;
 
 .kakao{
   position: absolute;
-width: 27.1354vw;
-height: 21.6649vh;
-left: 9.3750vw;
-top: 87.6201vh;
-background: #212641;
-border-radius: 30px;
-overflow: hidden;
+  width: 27.1354vw;
+  height: 18.6649vh;
+  left: 9.375vw;
+  top: 80.6201vh;
+  background: #212641;
+  border-radius: 30px;
+  overflow: hidden;
 }
 
 .box_icon{
@@ -171,12 +171,12 @@ overflow: hidden;
 .box{
   position: absolute;
 width: 16.8750vw;
-height: 21.6649vh;
+height: 18.6649vh;
 left: 37.6563vw;
-top: 87.6201vh;
+top: 80.6201vh;
 background: #EEEEEE;
 border-radius: 30px;
-padding:2.1875vw 2.3958vw;
+padding: 3.4824vh 2.3958vw;
 overflow:hidden;
 }
 
@@ -189,7 +189,7 @@ overflow:hidden;
 width: 13.1250vw;
 height: 13.2337vh;
 left: 77.5000vw;
-top: 15.3682vh;
+top: 13.3682vh;
 background: #F3EDE1;
 border-radius: 22px;
 overflow:hidden;
@@ -227,14 +227,14 @@ padding:3.4152vh 1.4583vw;
 
 .left_box2{
   background:#F68D73;
-  top: 31.1633vh;
+  top: 28.1633vh;
   padding:3.4152vh 1.6927vw;
 }
 
 .call{
   position: absolute;
   left: 77.5000vw;
-  top: 59.0181vh;
+  top: 56.0181vh;
   height:21.5582vh;
   border-bottom:1px solid #eee;
 }
@@ -258,7 +258,7 @@ font-weight: 400;
   position:absolute;
   width:13.1250vw;
   left: 77.5000vw;
-  top: 88.4739vh;
+  top: 83.4739vh;
 }
 
 
@@ -276,7 +276,7 @@ top: 115.2615vh;
   width: 5.3125vw;
   height: 10.8858vh;
   float:right;
-  margin-top:5.3362vh;
+  margin-top:4.3362vh;
   margin-right:2.8125vw;
 }
 
@@ -285,7 +285,7 @@ top: 115.2615vh;
   font-size: 30px;
   color: #fff;
   font-weight: 400;
-  margin-top:6.5101vh;
+  margin-top:5.5101vh;
   margin-left:2.8125vw;
 }
 
