@@ -473,7 +473,7 @@ margin-top:24px;
   .kakao_icon{
     width:78px;
     height:auto;
-    margin-top:0;
+    margin-top:-2px;
   }
   .box_icon{
     width:46px;
@@ -493,12 +493,12 @@ margin-top:24px;
   }
   .kakao_text{
     font-size: 20px;
-    margin-top:7.5101vh;
+    line-height:32px;
   }
   .kakao_icon{
-    width:56px;
+    width:59px;
     height:auto;
-    margin-top: 7.3362vh;
+    margin-top: 1px;
   }
   .box_title{
     font-size: 11px;
