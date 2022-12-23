@@ -483,12 +483,12 @@ top: 115.2615vh;
   }
   .kakao_text{
     font-size: 20px;
-    margin-top:7.5101vh;
+    margin-top:6.5101vh;
   }
   .kakao_icon{
     width:56px;
     height:auto;
-    margin-top: 7.3362vh;
+    margin-top: 6.3362vh;
   }
   .box_title{
     font-size: 11px;
@@ -505,7 +505,7 @@ top: 115.2615vh;
     height:auto;
   }
   .box{
-    padding:41px 16px;
+    padding:33px 16px;
   }
   .box_icon.sofa_icon{
     width: 50px;
