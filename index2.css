@@ -125,18 +125,19 @@ line-height:8.9648vh;
 
 .kakao{
   position: absolute;
-  width: 27.1354vw;
-  height: 21.6649vh;
+  width: 521px;
+  height: 203px;
   left: 9.3750vw;
   top: 73.6201vh;
   background: #212641;
   border-radius: 30px;
   overflow: hidden;
+  padding:57px 54px;
 }
 
 .box_icon{
-  width:2.9688vw;
-  height:7.7908vh;
+  width:57px;
+  height:73px;
   display:block;
   float:right;
 }
@@ -161,42 +162,43 @@ line-height:8.9648vh;
   font-style: normal;
   font-weight: 300;
   font-size: 28px;
-  line-height: 3.8420vh;
+  line-height: 36px;
   float:left;
   color:#222
 }
 
 .box_icon.sofa_icon{
-  width:4.2708vw;
-  height:7.7908vh;
+  width:82px;
+  height:73px;
 }
 
 .box{
   position: absolute;
-  width: 16.8750vw;
-  height: 21.6649vh;
+  width: 324px;
+  height: 203px;
   left: 37.6563vw;
   top: 73.6201vh;
   background: #EEEEEE;
   border-radius: 30px;
-  padding:2.1875vw 2.3958vw;
+  padding:47.5px 46.5px;
   overflow:hidden;
 }
 
 .box2{
   left: 55.6771vw;
+  padding:47.5px 46.5px
 }
 
 .left_box{
   position: absolute;
-width: 13.1250vw;
-height: 13.2337vh;
-left: 77.5000vw;
-top: 13.3682vh;
-background: #F3EDE1;
-border-radius: 22px;
-overflow:hidden;
-padding:3.4152vh 1.4583vw;
+  width: 252px;
+  height: 124px;
+  left: 77.5000vw;
+  top: 13.3682vh;
+  background: #F3EDE1;
+  border-radius: 22px;
+  overflow:hidden;
+  padding:32px 28px;
 }
 
 .left_box_title{
@@ -231,7 +233,7 @@ padding:3.4152vh 1.4583vw;
 .left_box2{
   background:#F68D73;
   top: 29.1633vh;
-  padding:3.4152vh 1.6927vw;
+  padding:32px 32.5px;
 }
 
 .span-right{
@@ -288,8 +290,7 @@ margin-top:24px;
   width: 5.3125vw;
   height: 10.8858vh;
   float:right;
-  margin-top:5.3362vh;
-  margin-right:2.8125vw;
+  margin-top: -8px;
 }
 
 .kakao_text{
@@ -297,8 +298,7 @@ margin-top:24px;
   font-size: 30px;
   color: #fff;
   font-weight: 400;
-  margin-top:6.5101vh;
-  margin-left:2.8125vw;
+  line-height:44px;
 }
 
 @media all and (max-width:480px){
